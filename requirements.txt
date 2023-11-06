@@ -1,0 +1,9 @@
+# Required libraries for the project
+tensorflow==2.6.0
+scikit-learn
+nlp
+numpy
+matplotlib
+pandas
+seaborn
+wordcloud
